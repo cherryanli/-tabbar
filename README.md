@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # tabbar
 
 ## Project setup
@@ -22,3 +23,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# -tabbar
+demo
+>>>>>>> 76538119f785813a06a6f3ace7b017ccdf4856be
